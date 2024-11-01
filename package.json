@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://iitian360.github.io/Job-portal-frontend/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
